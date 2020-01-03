@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/medicare/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/medicare/static/js/main.6477140b.chunk.js",
+    "main.js.map": "/medicare/static/js/main.6477140b.chunk.js.map",
+    "runtime-main.js": "/medicare/static/js/runtime-main.1410bfdd.js",
+    "runtime-main.js.map": "/medicare/static/js/runtime-main.1410bfdd.js.map",
+    "static/js/2.a250f35c.chunk.js": "/medicare/static/js/2.a250f35c.chunk.js",
+    "static/js/2.a250f35c.chunk.js.map": "/medicare/static/js/2.a250f35c.chunk.js.map",
+    "index.html": "/medicare/index.html",
+    "precache-manifest.507805d8ad7981785fc1a8086ab2d05b.js": "/medicare/precache-manifest.507805d8ad7981785fc1a8086ab2d05b.js",
+    "service-worker.js": "/medicare/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/medicare/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a250f35c.chunk.js.LICENSE": "/medicare/static/js/2.a250f35c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1410bfdd.js",
+    "static/js/2.a250f35c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6477140b.chunk.js"
+  ]
+}
